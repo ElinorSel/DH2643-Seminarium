@@ -12,6 +12,7 @@ export default function Home() {
 
         <p className="subtitle">One page, two rendering environments.</p>
 
+        {/* SERVER COMPONENT */}
         <section className="card server">
           <div className="label">SERVER COMPONENT</div>
 
@@ -25,6 +26,7 @@ export default function Home() {
           <div className="time">{serverTime}</div>
         </section>
 
+        {/* CLIENT COMPONENT */}
         <section className="card client">
           <div className="label">CLIENT COMPONENT</div>
 
@@ -32,6 +34,7 @@ export default function Home() {
 
           <p>It needs JavaScript because the user can interact with it.</p>
 
+          {/* IMPORTED COMPONENT */}
           <Counter />
         </section>
 
