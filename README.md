@@ -6,3 +6,6 @@ https://docs.google.com/document/d/1A-fkuSZZpwNlqj5Iuq2OfOZNU0DEmak8yIxjvwW31hk/
 
 Seminar 2 Presentation:
 https://docs.google.com/presentation/d/1h-qhNJdbzXUiiaSfuvn8OPgOcVQSrmSyEnkaiqAdN6E/edit?slide=id.p#slide=id.p
+
+Seminar 3 report:
+https://docs.google.com/document/d/10ho11YM8NHcklEOGVH0zKCEDMnZBnhatXRnlGLhhxmY/edit?usp=sharing
