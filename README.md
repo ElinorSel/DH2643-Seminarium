@@ -9,3 +9,6 @@ https://docs.google.com/presentation/d/1h-qhNJdbzXUiiaSfuvn8OPgOcVQSrmSyEnkaiqAd
 
 Seminar 3 report:
 https://docs.google.com/document/d/10ho11YM8NHcklEOGVH0zKCEDMnZBnhatXRnlGLhhxmY/edit?usp=sharing
+
+Seminar 4 Presentation:
+https://docs.google.com/presentation/d/1fiHq3TgPc6-WG_eCZOhGcIIoEg1EqXmZIGLHTG-DEbk/edit?usp=sharing
